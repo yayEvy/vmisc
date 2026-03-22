@@ -40,7 +40,7 @@ public class VmiscConfig {
 
             whackForceStrength = builder
                     .comment("The base force applied when smacking a ship with Knockback. Multiplied by enchantment level.")
-                    .defineInRange("whackForceStrength", 100000.0, 0.0, 1e12);
+                    .defineInRange("whackForceStrength", 10000.0, 0.0, 1e12);
 
             builder.pop();
         }
