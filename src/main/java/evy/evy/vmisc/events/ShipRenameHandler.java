@@ -1,6 +1,6 @@
 package evy.evy.vmisc.events;
 
-import evy.evy.vmisc.util.ShipRenamer;
+import evy.evy.vmisc.util.misc.ShipRenamer;
 import net.minecraft.world.InteractionResult;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

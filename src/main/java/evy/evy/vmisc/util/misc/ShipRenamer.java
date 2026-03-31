@@ -1,4 +1,4 @@
-package evy.evy.vmisc.util;
+package evy.evy.vmisc.util.misc;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.chat.Component;
